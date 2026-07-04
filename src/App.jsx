@@ -4,8 +4,8 @@ import "./App.css";
 
 import Navbar from "./components/Navbar";
 import Dashboard from "./components/Dashboard";
-import ExpenseForm from "./components/ExpenseForm";
-import ExpenseList from "./components/ExpenseList";
+import ExpenseForm from "./components/Expenseform";
+import ExpenseList from "./components/Expenselist";
 import Footer from "./components/Footer";
 import Login from "./components/Login";
 import Register from "./components/Register";
